@@ -10,4 +10,4 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/robram9572/BBR
 
 BBR优化
 
-bash <(curl -Ls https://raw.githubusercontent.com/robram9572/main/BBR/bbryh.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/robram9572/BBR/main/bbryh.sh)
